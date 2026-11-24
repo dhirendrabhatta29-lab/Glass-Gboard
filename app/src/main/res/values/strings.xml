@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GlassLayer for Gboard</string>
+    <string name="xposed_description">Liquid glass effects for Google Keyboard</string>
+</resources>
